@@ -1,6 +1,6 @@
 # Changelog
 
-## v1.1.0 - 2020-11-25
+## v0.1.0 - 2020-11-25
 
 ### Changed
 
@@ -10,7 +10,7 @@
 
 - `ip_version` should be optional
 
-## v1.0.0 - 2020-09-25
+## v0.0.1 - 2020-09-25
 
 ### Added
 
