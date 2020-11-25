@@ -4,7 +4,7 @@
 
 ### Changed
 
-- Get location from resource group
+- Get location from resource group -> **`location` variable must not be passed**
 
 ### Fixed
 
