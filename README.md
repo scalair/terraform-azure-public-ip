@@ -9,9 +9,10 @@ It is based on the official [```azurerm_public_ip``` resource](https://www.terra
 inputs = {
     name = "custom-ip-address"
     resource_group_name = "myresourcegroup"
-    location = "eastus"
     allocation_method = "Dynamic"
     sku = "Basic"
+
+    domain_name_label = "my-domain"
 
     tags = {
         "environment" = "dev"
